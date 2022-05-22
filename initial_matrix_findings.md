@@ -22,4 +22,4 @@ For this experiment, I used Matlab to create a random, square, row stochastic ma
 ### View the code
 [View the Matlab script used to generate the results](initial_findings.m)
 
-[View the Python script used to graph and analyze the results](displaying_initial_results.ipynb)
+[View the Python script used to graph and analyze the results](displaying_initial_results.py)
