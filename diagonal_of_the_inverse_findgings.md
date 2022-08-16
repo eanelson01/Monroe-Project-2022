@@ -31,7 +31,7 @@ Below are the various graphs generated from the diagonal values of the inverse. 
 ### View the code
 [View the Matlab script used to generate the results](code_files/initial_diagonal_value_findings.m)
 
-[View the Python script used to graph and analyze the results](displaying_initial_results.py)
+[View the Python script used to graph and analyze the results](code_files/displaying_inverse_diagonal_values.py)
 
 ### Navigate to other pages
 [Go to the next page: Derivatives of the diagonal values](derivitives_findings.md)
