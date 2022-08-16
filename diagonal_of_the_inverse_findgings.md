@@ -7,25 +7,25 @@ The major finding of these experiments is that an increase in alpha appears to r
 
 ### Findings and Graphs
 
-| Size of Matrix | Image w/o axis bound | Image w axis bound |
+| Size of the Matrix | Graphs without y-axis limit | Graph with y-axis limit |
 | ------ | --------- | ------- |
 | 2x2 |![2x2 Graph](graphs/2x2_diagonal.png) | ![](graphs/n_2_count_2_inverse_diagonal_values_graph.png) | 
 | 3x3 |![3x3 Graph](graphs/3x3_diagonal.png) | ![](graphs/n_3_count_3_inverse_diagonal_values_graph.png)| 
 | 4x4 |![4x4 Graph](graphs/4x4_diagonal.png) | ![](graphs/n_4_count_1_inverse_diagonal_values_graph.png)| 
-| 5x5 |![5x5 Graph](graphs/5x5_diagonal.png) | | 
-| 6x6 |![6x6 Graph](graphs/6x6_diagonal.png) | | 
-| 7x7 |![7x7 Graph](graphs/7x7_diagonal.png) | | 
-| 8x8 |![8x8 Graph](graphs/8x8_diagonal.png) | | 
-| 9x9 |![9x9 Graph](graphs/9x9_diagonal.png) | | 
-| 10x10 |![10x10 Graph](graphs/10x10_diagonal.png) | | 
-| 11x11 |![11x11 Graph](graphs/11x11_diagonal.png) | | 
-| 12x12 |![12x12 Graph](graphs/12x12_diagonal.png) | | 
-| 13x13 |![13x13 Graph](graphs/13x13_diagonal.png) | |
-| 14x14 |![14x14 Graph](graphs/14x14_diagonal.png) | | 
-| 15x15 |![15x15 Graph](graphs/15x15_diagonal.png) | |
+| 5x5 |![5x5 Graph](graphs/5x5_diagonal.png) | ![](graphs/n_5_count_3_inverse_diagonal_values_graph.png)| 
+| 6x6 |![6x6 Graph](graphs/6x6_diagonal.png) | ![](graphs/n_6_count_6_inverse_diagonal_values_graph.png)| 
+| 7x7 |![7x7 Graph](graphs/7x7_diagonal.png) | ![](graphs/n_7_count_4_inverse_diagonal_values_graph.png)| 
+| 8x8 |![8x8 Graph](graphs/8x8_diagonal.png) | ![](graphs/n_8_count_3_inverse_diagonal_values_graph.png)| 
+| 9x9 |![9x9 Graph](graphs/9x9_diagonal.png) | ![](graphs/n_9_count_6_inverse_diagonal_values_graph.png)| 
+| 10x10 |![10x10 Graph](graphs/10x10_diagonal.png) | ![](graphs/n_10_count_5_inverse_diagonal_values_graph.png)| 
+| 11x11 |![11x11 Graph](graphs/11x11_diagonal.png) | ![](graphs/n_11_count_3_inverse_diagonal_values_graph.png)| 
+| 12x12 |![12x12 Graph](graphs/12x12_diagonal.png) | ![](graphs/n_12_count_2_inverse_diagonal_values_graph.png)| 
+| 13x13 |![13x13 Graph](graphs/13x13_diagonal.png) | ![](graphs/n_13_count_2_inverse_diagonal_values_graph.png)|
+| 14x14 |![14x14 Graph](graphs/14x14_diagonal.png) | ![](graphs/n_14_count_3_inverse_diagonal_values_graph.png)| 
+| 15x15 |![15x15 Graph](graphs/15x15_diagonal.png) | ![](graphs/n_15_count_5_inverse_diagonal_values_graph.png)|
 
 ### View the code
-[View the Matlab script used to generate the results](initial_findings.m)
+[View the Matlab script used to generate the results](code_files/initial_diagonal_value_findings.m)
 
 [View the Python script used to graph and analyze the results](displaying_initial_results.py)
 
