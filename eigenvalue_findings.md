@@ -15,10 +15,12 @@ In the above expressions, j denotes the jth eigenvalue of the B matrix and i den
 ![](images/eigenvalue_equation.png)
 
 In the above equation, to the left of the equals sign is the determinant from the top of the page as well as from previous sections. On the right is the new way to write the same equation using the idea that the determinant is the product of the eigenvalues. Additionally, there is an equal amount of eigenvalues for the numerator or denominator of the eigenvalue quotient even though there is an extra lambda eigenvalue from the A matrix. The extra eigenvalue is missing because it equals one, keeping the expression the same even when included. 
+                                                                                                         
 
+### Navigate to other pages
+[Go to the next page: Viewing the derivative inequality](inequality_findings.md)
 
-
-
+[Return to home page](README.md)
 
 
 
