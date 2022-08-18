@@ -1,4 +1,4 @@
-## Analyzing the Eigenvalues of the Inverse and its Minor
+## Analyzing the Eigenvalues of the Inverse and its Principle Sub Matrix
 
 After looking at the derivative of the diagonal values of the inverse, we transitioned to looking at its eigenvalues and their relation to its principle sub matrix. The principle sub matrix of the inverse is denoted as B. This is the same as the A(i) term found in the previous section and its equation with the determinants. By exchanging A(i) with B, the determinant expression for the diagonal values of the inverse is given as:
 

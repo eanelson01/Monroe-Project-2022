@@ -9,7 +9,7 @@ For this project, I am looking at a square stochastic matrix A. The entries of A
 
 [2. Calculating the derivitive of the diagonal values of the inverse.](derivitives_findings.md)
 
-[3. Identifying the relationship between the eigenvalues of the diagonally dominant row stochastic matrix and its principle matrix. ](eigenvalue_findings.md)
+[3. Identifying the relationship between the eigenvalues of the diagonally dominant row stochastic matrix and its principle sub matrix. ](eigenvalue_findings.md)
 
 [4. Revisiting the diagonal values of the inverse using inequalities.](inequality_findings.md)
 
