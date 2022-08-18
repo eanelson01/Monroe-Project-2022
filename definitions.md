@@ -23,3 +23,7 @@
 **λ(t)** : An eigenvalue from the A(t) matrix after the convex combination with the identity.
 
 ![](images/lambda_expression.png)
+
+### Navigate to other pages
+
+[Return to home page](README.md)   
