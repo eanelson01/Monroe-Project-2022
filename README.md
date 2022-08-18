@@ -5,16 +5,16 @@ For this project, I am looking at a square stochastic matrix A. The entries of A
 
 #### Links to each research goal 
 
-[Investigating the trends of diagonal values for the inverse in 2x2-15x15 stochastic diagonal row dominant matrices.](diagonal_of_the_inverse_findgings.md)
+[1. Investigating the trends of diagonal values for the inverse in 2x2-15x15 stochastic diagonal row dominant matrices.](diagonal_of_the_inverse_findgings.md)
 
-[Calculating the derivitive of the diagonal values of the inverse.](derivitives_findings.md)
+[2. Calculating the derivitive of the diagonal values of the inverse.](derivitives_findings.md)
 
-[Identifying the relationship between the eigenvalues of the diagonally dominant row stochastic matrix and its principle matrix. ](eigenvalue_findings.md)
+[3. Identifying the relationship between the eigenvalues of the diagonally dominant row stochastic matrix and its principle matrix. ](eigenvalue_findings.md)
 
-[Revisiting the diagonal values of the inverse using inequalities.](inequality_findings.md)
+[4. Revisiting the diagonal values of the inverse using inequalities.](inequality_findings.md)
 
-[Identifying results using the circulant, a supposed extreme example.](circulant_observations.md)
+[5. Identifying results using the circulant, a supposed extreme example.](circulant_observations.md)
 
-[Definitions of all variables in the project.](definitions.md)
+[6. Definitions of all variables in the project.](definitions.md)
 
-[Bibliography](bibliography.md)
+[7. Bibliography](bibliography.md)
