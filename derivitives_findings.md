@@ -41,7 +41,7 @@ As a result of the increasing complexity of the derivatives, we shifted our focu
 
 [Matlab script for finding the derivatives and testing them for positivity](code_files/looking_at_determinant_derivatives.m)
 
-### Navigate to other pages
+### Navigate to Other Pages
 
 [Go to next page: Findings with Eigenvalues](eigenvalue_findings.md)
 

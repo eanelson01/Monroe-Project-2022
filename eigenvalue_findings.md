@@ -40,7 +40,7 @@ With the eigenvalues, we found a new way to express the derivative for the inver
 
 [Matlab script for creating, viewing, and testing the eigenvalues from generated matrices.](code_files/evaluating_eigenvalues_trends.m)
 
-### Navigate to other pages
+### Navigate to Other Pages
 [Go to the next page: Viewing the derivative inequality](inequality_findings.md)
 
 [Return to home page](README.md)

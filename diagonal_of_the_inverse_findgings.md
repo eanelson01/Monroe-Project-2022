@@ -33,7 +33,7 @@ Below are the various graphs generated from the diagonal values of the inverse. 
 
 [View the Python script used to graph and analyze the results](code_files/displaying_inverse_diagonal_values.py)
 
-### Navigate to other pages
+### Navigate to Other Pages
 [Go to the next page: Derivatives of the diagonal values](derivitives_findings.md)
 
 [Return to home page](README.md)
