@@ -13,10 +13,14 @@ To navigate to additional pages and view each research step, view the links belo
 
 [3. Identifying the relationship between the eigenvalues of the diagonally dominant row stochastic matrix and its principle sub-matrix. ](eigenvalue_findings.md)
 
-[4. Revisiting the derivative of the diagonal values of the inverse through an inequality expression.](inequality_findings.md)
+[4. Proof that a symmetric row stochastic diagonally dominant matrix will always have increasing inverse diagonal entries.](similarity_explanation.md)
 
-[5. Identifying results using the circulant, a supposed extreme example of an A matrix.](circulant_observations.md)
+[5. Revisiting the derivative of the diagonal values of the inverse through an inequality expression.](inequality_findings.md)
 
-[6. Definitions of all variables used in the project.](definitions.md)
+[6. Identifying results using the circulant, a supposed extreme example of an A matrix.](circulant_observations.md)
 
-[7. Bibliography](bibliography.md)
+### Definition and Reference Page
+
+[1. Definitions of all variables used in the project.](definitions.md)
+
+[2. Bibliography](bibliography.md)
