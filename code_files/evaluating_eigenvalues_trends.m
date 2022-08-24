@@ -157,7 +157,7 @@ for time = 1:1:count
     end
 end
 
-%appears to have positive derivitive for all values of alpha 0<t<1/2
+%appears to have positive derivative for all values of alpha 0<t<1/2
 
 
 

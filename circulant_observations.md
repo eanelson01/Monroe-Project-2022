@@ -22,11 +22,11 @@ Using the circulant at each size as the A matrix, I ran it through the convex co
 | 9 | ![](images/circulant/n_9_circulant_diagonal_values.png)|
 | 10 | ![](images/circulant/n_10_circulant_diagonal_values.png)|
 
-Based on the graphs, the derivative changes from positive to negative in the odd size matrices while there is no change over in the even circulant matrices. Additionally, the turnover point in the odd size matrices occurs at a larger t for larger sized matrices. For example, the turnover point for the 3x3 matrix occurs around 1/3 while the turnover for the 9x9 matrix is closer to .41. For a more exact view of where the turnover occurs, we can find the derivative for the diagonal values using the determinant expression we've used throughout the project. In order to use the expression, we denote the circulant as the A matrix and calcaulate from there. In the determinant expression, we called the numerator f(t) and the denominator as g(t). This new expression was for ease of use with the quotient rule of the derivative. The expression is as such:
+Based on the graphs, the derivative changes from positive to negative in the odd size matrices while there is no change over in the even circulant matrices. Additionally, the turnover point in the odd size matrices occurs at a larger t for larger sized matrices. For example, the turnover point for the 3x3 matrix occurs around 1/3 while the turnover for the 9x9 matrix is closer to .41. For a more exact view of where the turnover occurs, we can find the derivative for the diagonal values using the determinant expression we've used throughout the project. In order to use the expression, we denote the circulant as the A matrix and calculate from there. In the determinant expression, we called the numerator f(t) and the denominator as g(t). This new expression was for ease of use with the quotient rule of the derivative. The expression is as such:
 
 ![](images/circulant/determinant_expression_circulant.png)
 
-With this new notation, we can calculate f(t) and g(t) for the circulant example and view if there is a pattern that arises. By viewing the 2x2 to 5x5 examples, the pattern became clear and we were able to denote the nxn case of the expression. Below are the results: 
+With this new notation, we can calculate f(t) and g(t) for the circulant example and view if there is a pattern that arises. By viewing the 2x2 to 5x5 examples, the pattern became clear, and we were able to denote the nxn case of the expression. Below are the results: 
 
 | Size of Matrix (n) | f(t) | g(t) |
 | ------- | ------- | ------ |
@@ -38,7 +38,7 @@ With this new notation, we can calculate f(t) and g(t) for the circulant example
 
 Once we had the expressions for f(t) and g(t), we were able to take their derivatives so that we can plug their values into the whole quotient expression. Below are the derivatives of f(t) and g(t), expressed as f'(t) and g'(t) respectively, for the nxn case as well as n = [2,5]:
 
-| Size of Matrix (n) | f(t)' | g(t)' |
+| Size of Matrix (n) | f'(t) | g'(t) |
 | ------- | ------- | ------ |
 | n | ![](images/circulant/f_d_n.png) | ![](images/circulant/g_d_n.png) |
 | 2 | ![](images/circulant/f_d_2.png) | ![](images/circulant/g_d_2.png) |
@@ -61,13 +61,30 @@ Using this equation, we are able to calculate the highest t we can use in the in
 
 ![](images/circulant/circulant_derivitive_expression.png )
 
+We are able to simplify this polynomial even more. Below is the simplified polynomial for when n is even vs when n is even.
+
+| Odd n Expression | Even n Expression |
+| ---------------- | ---------------- |
+| ![](images/circulant/odd_circulant_expression.png) | ![](images\circulant\even_circulant_expression.png) |
+
+
+For odd n, below are the t where the derivative is zero and up to which the derivative is positive. For these examples, the t represents the new bound up to which the inverse diagonal values are increasing. Each number is rounded to 4 decimal places but the exact value can be found by solving the equation above for t when equal to 0.
+
+| Size of Matrix | Value of t where Derivative is 0 |
+| -------------- | --------------- |
+| 3 | 1/3 |
+| 5 | .3772 |
+| 7 | .4013 |
+| 9 | .4168 |
+| 11 | .4276 |
+| 13 | .4358 |
+| 15 | .4420 |
 
 ### View the code
 
 
 
 ### Navigate to Other Pages
-[Go to the next page: Other Miscellaneous Findings](misc_observations.md)
 
 [Return to home page](README.md)
 
