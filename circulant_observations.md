@@ -86,6 +86,6 @@ For odd n, below are the t where the derivative is zero and up to which the deri
 
 ### Navigate to Other Pages
 
-[Return to home page](README.md)
+[Return to the home page](README.md)
 
 [View definitions of symbols used in the project](definitions.md)  

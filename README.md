@@ -23,4 +23,4 @@ To navigate to additional pages and view each research step, view the links belo
 
 [1. Definitions of all variables used in the project.](definitions.md)
 
-[2. Bibliography](bibliography.md)
+[2. References ](bibliography.md)
