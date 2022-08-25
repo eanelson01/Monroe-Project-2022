@@ -1,4 +1,4 @@
-### Definitions of symbols used throughout the project
+### Definitions of Symbols used Throughout the Project
 
 **A** : The nxn row stochastic matrix before averaging with the identity.
 
