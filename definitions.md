@@ -22,8 +22,14 @@
 
 **λ(t)** : An eigenvalue from the A(t) matrix after the convex combination with the identity.
 
+**f(t)** : The numerator of the determinant expression
+
+**g(t)** : The denominator of the determinant expression.
+
+**G(t)** : An example function to help illustrate the inequality simplification. Not representative of an actual function used in the project.
+
 ![](images/lambda_expression.png)
 
 ### Navigate to other pages
 
-[Return to home page](README.md)   
+[Return to the home page](README.md)   

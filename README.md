@@ -19,6 +19,8 @@ To navigate to additional pages and view each research step, view the links belo
 
 [6. Identifying results using the circulant, a supposed extreme example of an A matrix.](circulant_observations.md)
 
+[7. Final Conclusions and Remarks](final_conclusions.md)
+
 ### Definition and Reference Page
 
 [1. Definitions of all variables used in the project.](definitions.md)

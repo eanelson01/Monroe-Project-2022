@@ -82,9 +82,11 @@ For odd n, below are the t where the derivative is zero and up to which the deri
 
 ### View the code
 
-
+[Matlab script for finding the inverse diagonal values and where the derivative is equal to zero](code_files/viewing_the_circulant_values_and_derivative.m)
 
 ### Navigate to Other Pages
+
+[Go to next pages: Final remarks and conclusions](final_conclusion.md)
 
 [Return to the home page](README.md)
 
