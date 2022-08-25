@@ -7,7 +7,7 @@ To investigate the trends of the inverse diagonal values, I used Matlab to creat
 
 The major finding of these experiments is that an increase in t appears to result in an increase in the inverse diagonal values for most A matrices. The diagonal values of each column do not appear to increase at the same rate, but they appear to generally increase. As the size of the matrices increase, the variability in diagonal values from column to column as well as in the rate at which they increase seems to decrease. The diagonal values of the columns appear to draw closer together as the size of the matrix increases. This differs from the smaller sized matrices which can have a wide range of difference between the diagonal value of one column compared to the next. With these observations, it is important to check if the inverse diagonal values are increasing at every t value as well as for every size. To check this, we went on to look at the derivative of the inverse diagonal values in the next section.
 
-### Graphs of the findings
+### Graphs of the Findings
 
 Below are the various graphs of the inverse diagonal values. The table is formatted so that the size of the matrix is denoted on the far left. The middle column contains graphs where the y-axis scale is variable. This is to show the differences on a more micro level between the columns of that particular matrix. In the far right column are matrices that have a consistent y-axis scale. This is for a more macro-level analysis and to compare evenly across the different sized matrices. The alpha term shown on the x-axis is the same as the t value discussed above. The two are interchangeable throughout the project. The main takeaway from the graphs is the apparent uniform increase in the inverse diagonal values. In the next section, we look at the derivative of these values and if they are increasing at all values of t and n. The graphs shown below range from n = 2 to n = 15. This is because the trends beyond 15 were consistent with the general findings in the n = 10 to n = 15 range. All continued to increase and were tightly grouped together.
 
@@ -28,7 +28,7 @@ Below are the various graphs of the inverse diagonal values. The table is format
 | 14x14 |![14x14 Graph](graphs/14x14_diagonal.png) | ![](graphs/n_14_count_3_inverse_diagonal_values_graph.png)| 
 | 15x15 |![15x15 Graph](graphs/15x15_diagonal.png) | ![](graphs/n_15_count_5_inverse_diagonal_values_graph.png)|
 
-### View the code
+### View the Code
 [View the Matlab script used to generate the inverse diagonal values](code_files/initial_diagonal_value_findings.m)
 
 [View the Python script used to graph and analyze the inverse diagonal values](code_files/displaying_inverse_diagonal_values.py)

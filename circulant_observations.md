@@ -80,7 +80,7 @@ For odd n, below are the t where the derivative is zero and up to which the deri
 | 13 | .4358 |
 | 15 | .4420 |
 
-### View the code
+### View the Code
 
 [Matlab script for finding the inverse diagonal values and where the derivative is equal to zero](code_files/viewing_the_circulant_values_and_derivative.m)
 

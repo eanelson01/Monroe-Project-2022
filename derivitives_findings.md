@@ -35,10 +35,10 @@ First Derivative:
 
 Above is the first derivative of the diagonal values of the inverse for the 3x3 matrix. The complexity increased dramatically, and the increase in variables made it much harder to evaluate this derivative in an analytical or computation manner. For this reason, we were unable to solve if the derivative was positive for each t in the same we were able to with the n = 2 case. To counteract that, we needed to look for an alternative perspective on the derivative.
 
-## Results and next steps
+## Results and Next Steps
 As a result of the increasing complexity of the derivatives, we shifted our focus away from trying to illustrate the phenomenon with this perspective of the derivative because it would be too complicated to show for larger sizes in a consistent manner. With this in mind, we did not shift entirely away from the determinant method for finding the diagonal values of the inverse, however. The determinant expression proved useful throughout the project as insight on what is happening to the inverse diagonal values.
 
-### View the code
+### View the Code
 
 [Matlab script for finding the derivatives and testing them for positivity](code_files/looking_at_determinant_derivatives.m)
 
