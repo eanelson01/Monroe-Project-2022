@@ -15,7 +15,7 @@ For further explanation of the inequality, view the section on [finding the deri
 
 [Go to the next page: Viewing the derivative inequality](inequality_findings.md)
 
-[Return to home page](README.md)
+[Return to the home page](README.md)
 
 [View definitions of symbols used in the project](definitions.md)
 

@@ -35,7 +35,7 @@ With these examples, the majority of matrices that had a negative inequality wer
 ### Navigate to Other Pages
 [Go to the next page: Viewing the circulant inequality](circulant_observations.md)
 
-[Return to home page](README.md)
+[Return to the home page](README.md)
 
 [View definitions of symbols used in the project](definitions.md)               
                                                                                 

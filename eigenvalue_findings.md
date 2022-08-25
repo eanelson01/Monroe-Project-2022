@@ -43,7 +43,7 @@ With the eigenvalues, we found a new way to express the derivative for the inver
 ### Navigate to Other Pages
 [Go to the next page: Viewing the derivative inequality](inequality_findings.md)
 
-[Return to home page](README.md)
+[Return to the home page](README.md)
 
 [View definitions of symbols used in the project](definitions.md)
 
