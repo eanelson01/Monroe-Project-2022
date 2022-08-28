@@ -86,7 +86,7 @@ For odd n, below are the t where the derivative is zero and up to which the deri
 
 ### Navigate to Other Pages
 
-[Go to next pages: Final remarks and conclusions](final_conclusions.md)
+[Go to the next page: Final remarks and conclusions](final_conclusions.md)
 
 [Return to the home page](README.md)
 

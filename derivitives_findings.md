@@ -44,7 +44,7 @@ As a result of the increasing complexity of the derivatives, we shifted our focu
 
 ### Navigate to Other Pages
 
-[Go to next page: Viewing the inverse diagonal entries using eigenvalues](eigenvalue_findings.md)
+[Go to the next page: Viewing the inverse diagonal entries using eigenvalues](eigenvalue_findings.md)
 
 [Return to the home page](README.md)
 
