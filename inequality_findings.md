@@ -28,6 +28,8 @@ In this expression, Tr refers to the trace of the matrix in the parentheses. The
 
 With these examples, the majority of matrices that had a negative inequality were of size n = 3. There were a couple of examples of 4x4 matrices, but I did not encounter any with a larger size than 4. This is not to say that it cannot occur, however. With these matrices, we saw some common trends that appear to aid in having a negative inequality within the interval t = [0, 1/2]. The common occurrence with matrices that had a negative inequality was smaller diagonal values with large off diagonal values. This meant that the original A matrix must have a near zero value on the diagonal with a value of large proportion on the off diagonal. The most extreme case of this kind of matrix we thought of was the circulant which has 1 on the off diagonal and 0 on the diagonal values. This guided our research towards finding for what t value the circulant of each size begins to have a negative inequality.
 
+[Click here for a zip file of example A(t) matrices that fit our criteria but have a negative inequality.](code_files/negative_inequality_a_t_matrices.zip)
+
 ### View the Code
 
 [Matlab script viewing the inequality and when it is negative](code_files/viewing_negative_ineqaulities.m)
